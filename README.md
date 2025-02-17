@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/assets/main-logo.png" alt="Green Shadow Logo" width="200" style="margin-top: 50px" />
+  <img src="src/assets/download.htm" alt="Green Shadow Logo" width="200" style="margin-top: 50px" />
 <h2>GreenShadow-FRONTEND</h2>
 </div>
 
