@@ -36,10 +36,6 @@ Project UI screenshots are available [here](https://drive.google.com/drive/folde
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### Running the Application
-1. **Clone the repository:**
-   ```bash
-   https://github.com/yasith-chathuranga/react-crop-monitoring-system.git
 
 ##
 <div align="center">
@@ -49,7 +45,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" /></a>
 <a href="https://fontawesome.com/" target="_blank"><img src="https://img.shields.io/badge/FontAwesome-100000?style=for-the-badge&logo=font-awesome&logoColor=white" alt="FontAwesome Badge" /></a>
 
-<p align="center">
-  &copy; 2025 Yasith Chathuranga
-</p>
 </div>
